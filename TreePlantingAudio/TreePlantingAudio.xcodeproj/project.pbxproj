@@ -12,6 +12,22 @@
 		787ED1051E890A2B0010DAA9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 787ED1031E890A2B0010DAA9 /* Main.storyboard */; };
 		787ED1071E890A2B0010DAA9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 787ED1061E890A2B0010DAA9 /* Assets.xcassets */; };
 		787ED10A1E890A2B0010DAA9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 787ED1081E890A2B0010DAA9 /* LaunchScreen.storyboard */; };
+		787ED1221E890ABF0010DAA9 /* 01. Title.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 787ED1121E890ABF0010DAA9 /* 01. Title.mp3 */; };
+		787ED1231E890ABF0010DAA9 /* 02. Everlasting Wanderers.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 787ED1131E890ABF0010DAA9 /* 02. Everlasting Wanderers.mp3 */; };
+		787ED1241E890ABF0010DAA9 /* 03. Streamside.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 787ED1141E890ABF0010DAA9 /* 03. Streamside.mp3 */; };
+		787ED1251E890ABF0010DAA9 /* 04. Theme of Prontera.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 787ED1151E890ABF0010DAA9 /* 04. Theme of Prontera.mp3 */; };
+		787ED1261E890ABF0010DAA9 /* 05. Peaceful Forest.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 787ED1161E890ABF0010DAA9 /* 05. Peaceful Forest.mp3 */; };
+		787ED1271E890ABF0010DAA9 /* 06. Tread on the ground.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 787ED1171E890ABF0010DAA9 /* 06. Tread on the ground.mp3 */; };
+		787ED1281E890ABF0010DAA9 /* 07. Theme of Geffen.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 787ED1181E890ABF0010DAA9 /* 07. Theme of Geffen.mp3 */; };
+		787ED1291E890ABF0010DAA9 /* 08. Plateau.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 787ED1191E890ABF0010DAA9 /* 08. Plateau.mp3 */; };
+		787ED12A1E890ABF0010DAA9 /* 09. Brassy Road.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 787ED11A1E890ABF0010DAA9 /* 09. Brassy Road.mp3 */; };
+		787ED12B1E890ABF0010DAA9 /* 10. Travel.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 787ED11B1E890ABF0010DAA9 /* 10. Travel.mp3 */; };
+		787ED12C1E890ABF0010DAA9 /* 11. Desert.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 787ED11C1E890ABF0010DAA9 /* 11. Desert.mp3 */; };
+		787ED12D1E890ABF0010DAA9 /* 12. Theme of Morroc.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 787ED11D1E890ABF0010DAA9 /* 12. Theme of Morroc.mp3 */; };
+		787ED12E1E890ABF0010DAA9 /* 13. TeMPorsche.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 787ED11E1E890ABF0010DAA9 /* 13. TeMPorsche.mp3 */; };
+		787ED12F1E890ABF0010DAA9 /* 14. You're in ruins.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 787ED11F1E890ABF0010DAA9 /* 14. You're in ruins.mp3 */; };
+		787ED1301E890ABF0010DAA9 /* 15. Nano East.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 787ED1201E890ABF0010DAA9 /* 15. Nano East.mp3 */; };
+		787ED1311E890ABF0010DAA9 /* 16. Theme of Payon.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 787ED1211E890ABF0010DAA9 /* 16. Theme of Payon.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +38,22 @@
 		787ED1061E890A2B0010DAA9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		787ED1091E890A2B0010DAA9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		787ED10B1E890A2B0010DAA9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		787ED1121E890ABF0010DAA9 /* 01. Title.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "01. Title.mp3"; sourceTree = "<group>"; };
+		787ED1131E890ABF0010DAA9 /* 02. Everlasting Wanderers.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "02. Everlasting Wanderers.mp3"; sourceTree = "<group>"; };
+		787ED1141E890ABF0010DAA9 /* 03. Streamside.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "03. Streamside.mp3"; sourceTree = "<group>"; };
+		787ED1151E890ABF0010DAA9 /* 04. Theme of Prontera.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "04. Theme of Prontera.mp3"; sourceTree = "<group>"; };
+		787ED1161E890ABF0010DAA9 /* 05. Peaceful Forest.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "05. Peaceful Forest.mp3"; sourceTree = "<group>"; };
+		787ED1171E890ABF0010DAA9 /* 06. Tread on the ground.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "06. Tread on the ground.mp3"; sourceTree = "<group>"; };
+		787ED1181E890ABF0010DAA9 /* 07. Theme of Geffen.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "07. Theme of Geffen.mp3"; sourceTree = "<group>"; };
+		787ED1191E890ABF0010DAA9 /* 08. Plateau.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "08. Plateau.mp3"; sourceTree = "<group>"; };
+		787ED11A1E890ABF0010DAA9 /* 09. Brassy Road.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "09. Brassy Road.mp3"; sourceTree = "<group>"; };
+		787ED11B1E890ABF0010DAA9 /* 10. Travel.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "10. Travel.mp3"; sourceTree = "<group>"; };
+		787ED11C1E890ABF0010DAA9 /* 11. Desert.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "11. Desert.mp3"; sourceTree = "<group>"; };
+		787ED11D1E890ABF0010DAA9 /* 12. Theme of Morroc.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "12. Theme of Morroc.mp3"; sourceTree = "<group>"; };
+		787ED11E1E890ABF0010DAA9 /* 13. TeMPorsche.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "13. TeMPorsche.mp3"; sourceTree = "<group>"; };
+		787ED11F1E890ABF0010DAA9 /* 14. You're in ruins.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "14. You're in ruins.mp3"; sourceTree = "<group>"; };
+		787ED1201E890ABF0010DAA9 /* 15. Nano East.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "15. Nano East.mp3"; sourceTree = "<group>"; };
+		787ED1211E890ABF0010DAA9 /* 16. Theme of Payon.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "16. Theme of Payon.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +86,7 @@
 		787ED0FE1E890A2B0010DAA9 /* TreePlantingAudio */ = {
 			isa = PBXGroup;
 			children = (
+				787ED1111E890AB00010DAA9 /* Music */,
 				787ED0FF1E890A2B0010DAA9 /* AppDelegate.swift */,
 				787ED1011E890A2B0010DAA9 /* ViewController.swift */,
 				787ED1031E890A2B0010DAA9 /* Main.storyboard */,
@@ -62,6 +95,29 @@
 				787ED10B1E890A2B0010DAA9 /* Info.plist */,
 			);
 			path = TreePlantingAudio;
+			sourceTree = "<group>";
+		};
+		787ED1111E890AB00010DAA9 /* Music */ = {
+			isa = PBXGroup;
+			children = (
+				787ED1121E890ABF0010DAA9 /* 01. Title.mp3 */,
+				787ED1131E890ABF0010DAA9 /* 02. Everlasting Wanderers.mp3 */,
+				787ED1141E890ABF0010DAA9 /* 03. Streamside.mp3 */,
+				787ED1151E890ABF0010DAA9 /* 04. Theme of Prontera.mp3 */,
+				787ED1161E890ABF0010DAA9 /* 05. Peaceful Forest.mp3 */,
+				787ED1171E890ABF0010DAA9 /* 06. Tread on the ground.mp3 */,
+				787ED1181E890ABF0010DAA9 /* 07. Theme of Geffen.mp3 */,
+				787ED1191E890ABF0010DAA9 /* 08. Plateau.mp3 */,
+				787ED11A1E890ABF0010DAA9 /* 09. Brassy Road.mp3 */,
+				787ED11B1E890ABF0010DAA9 /* 10. Travel.mp3 */,
+				787ED11C1E890ABF0010DAA9 /* 11. Desert.mp3 */,
+				787ED11D1E890ABF0010DAA9 /* 12. Theme of Morroc.mp3 */,
+				787ED11E1E890ABF0010DAA9 /* 13. TeMPorsche.mp3 */,
+				787ED11F1E890ABF0010DAA9 /* 14. You're in ruins.mp3 */,
+				787ED1201E890ABF0010DAA9 /* 15. Nano East.mp3 */,
+				787ED1211E890ABF0010DAA9 /* 16. Theme of Payon.mp3 */,
+			);
+			path = Music;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -124,9 +180,25 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				787ED12B1E890ABF0010DAA9 /* 10. Travel.mp3 in Resources */,
+				787ED1261E890ABF0010DAA9 /* 05. Peaceful Forest.mp3 in Resources */,
+				787ED1221E890ABF0010DAA9 /* 01. Title.mp3 in Resources */,
 				787ED10A1E890A2B0010DAA9 /* LaunchScreen.storyboard in Resources */,
+				787ED12D1E890ABF0010DAA9 /* 12. Theme of Morroc.mp3 in Resources */,
+				787ED1271E890ABF0010DAA9 /* 06. Tread on the ground.mp3 in Resources */,
 				787ED1071E890A2B0010DAA9 /* Assets.xcassets in Resources */,
+				787ED1231E890ABF0010DAA9 /* 02. Everlasting Wanderers.mp3 in Resources */,
+				787ED12A1E890ABF0010DAA9 /* 09. Brassy Road.mp3 in Resources */,
+				787ED1311E890ABF0010DAA9 /* 16. Theme of Payon.mp3 in Resources */,
+				787ED1291E890ABF0010DAA9 /* 08. Plateau.mp3 in Resources */,
+				787ED12C1E890ABF0010DAA9 /* 11. Desert.mp3 in Resources */,
+				787ED1251E890ABF0010DAA9 /* 04. Theme of Prontera.mp3 in Resources */,
+				787ED12E1E890ABF0010DAA9 /* 13. TeMPorsche.mp3 in Resources */,
+				787ED1281E890ABF0010DAA9 /* 07. Theme of Geffen.mp3 in Resources */,
+				787ED1241E890ABF0010DAA9 /* 03. Streamside.mp3 in Resources */,
 				787ED1051E890A2B0010DAA9 /* Main.storyboard in Resources */,
+				787ED1301E890ABF0010DAA9 /* 15. Nano East.mp3 in Resources */,
+				787ED12F1E890ABF0010DAA9 /* 14. You're in ruins.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
