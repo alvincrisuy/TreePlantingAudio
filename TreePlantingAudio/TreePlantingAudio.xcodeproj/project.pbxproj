@@ -28,6 +28,8 @@
 		787ED12F1E890ABF0010DAA9 /* 14. You're in ruins.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 787ED11F1E890ABF0010DAA9 /* 14. You're in ruins.mp3 */; };
 		787ED1301E890ABF0010DAA9 /* 15. Nano East.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 787ED1201E890ABF0010DAA9 /* 15. Nano East.mp3 */; };
 		787ED1311E890ABF0010DAA9 /* 16. Theme of Payon.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 787ED1211E890ABF0010DAA9 /* 16. Theme of Payon.mp3 */; };
+		787ED1331E890B230010DAA9 /* AudioPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 787ED1321E890B230010DAA9 /* AudioPlayer.swift */; };
+		787ED1351E890B2E0010DAA9 /* AudioItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 787ED1341E890B2E0010DAA9 /* AudioItem.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -54,6 +56,8 @@
 		787ED11F1E890ABF0010DAA9 /* 14. You're in ruins.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "14. You're in ruins.mp3"; sourceTree = "<group>"; };
 		787ED1201E890ABF0010DAA9 /* 15. Nano East.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "15. Nano East.mp3"; sourceTree = "<group>"; };
 		787ED1211E890ABF0010DAA9 /* 16. Theme of Payon.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "16. Theme of Payon.mp3"; sourceTree = "<group>"; };
+		787ED1321E890B230010DAA9 /* AudioPlayer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AudioPlayer.swift; sourceTree = "<group>"; };
+		787ED1341E890B2E0010DAA9 /* AudioItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AudioItem.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +97,8 @@
 				787ED1061E890A2B0010DAA9 /* Assets.xcassets */,
 				787ED1081E890A2B0010DAA9 /* LaunchScreen.storyboard */,
 				787ED10B1E890A2B0010DAA9 /* Info.plist */,
+				787ED1321E890B230010DAA9 /* AudioPlayer.swift */,
+				787ED1341E890B2E0010DAA9 /* AudioItem.swift */,
 			);
 			path = TreePlantingAudio;
 			sourceTree = "<group>";
@@ -154,6 +160,11 @@
 						CreatedOnToolsVersion = 8.2.1;
 						DevelopmentTeam = L2SXWB2TAK;
 						ProvisioningStyle = Automatic;
+						SystemCapabilities = {
+							com.apple.BackgroundModes = {
+								enabled = 1;
+							};
+						};
 					};
 				};
 			};
@@ -211,6 +222,8 @@
 			files = (
 				787ED1021E890A2B0010DAA9 /* ViewController.swift in Sources */,
 				787ED1001E890A2B0010DAA9 /* AppDelegate.swift in Sources */,
+				787ED1331E890B230010DAA9 /* AudioPlayer.swift in Sources */,
+				787ED1351E890B2E0010DAA9 /* AudioItem.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
