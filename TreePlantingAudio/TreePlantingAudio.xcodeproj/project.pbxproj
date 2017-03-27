@@ -1,0 +1,309 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		787ED1001E890A2B0010DAA9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 787ED0FF1E890A2B0010DAA9 /* AppDelegate.swift */; };
+		787ED1021E890A2B0010DAA9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 787ED1011E890A2B0010DAA9 /* ViewController.swift */; };
+		787ED1051E890A2B0010DAA9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 787ED1031E890A2B0010DAA9 /* Main.storyboard */; };
+		787ED1071E890A2B0010DAA9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 787ED1061E890A2B0010DAA9 /* Assets.xcassets */; };
+		787ED10A1E890A2B0010DAA9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 787ED1081E890A2B0010DAA9 /* LaunchScreen.storyboard */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		787ED0FC1E890A2B0010DAA9 /* TreePlantingAudio.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TreePlantingAudio.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		787ED0FF1E890A2B0010DAA9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		787ED1011E890A2B0010DAA9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		787ED1041E890A2B0010DAA9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		787ED1061E890A2B0010DAA9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		787ED1091E890A2B0010DAA9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		787ED10B1E890A2B0010DAA9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		787ED0F91E890A2B0010DAA9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		787ED0F31E890A2B0010DAA9 = {
+			isa = PBXGroup;
+			children = (
+				787ED0FE1E890A2B0010DAA9 /* TreePlantingAudio */,
+				787ED0FD1E890A2B0010DAA9 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		787ED0FD1E890A2B0010DAA9 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				787ED0FC1E890A2B0010DAA9 /* TreePlantingAudio.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		787ED0FE1E890A2B0010DAA9 /* TreePlantingAudio */ = {
+			isa = PBXGroup;
+			children = (
+				787ED0FF1E890A2B0010DAA9 /* AppDelegate.swift */,
+				787ED1011E890A2B0010DAA9 /* ViewController.swift */,
+				787ED1031E890A2B0010DAA9 /* Main.storyboard */,
+				787ED1061E890A2B0010DAA9 /* Assets.xcassets */,
+				787ED1081E890A2B0010DAA9 /* LaunchScreen.storyboard */,
+				787ED10B1E890A2B0010DAA9 /* Info.plist */,
+			);
+			path = TreePlantingAudio;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		787ED0FB1E890A2B0010DAA9 /* TreePlantingAudio */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 787ED10E1E890A2B0010DAA9 /* Build configuration list for PBXNativeTarget "TreePlantingAudio" */;
+			buildPhases = (
+				787ED0F81E890A2B0010DAA9 /* Sources */,
+				787ED0F91E890A2B0010DAA9 /* Frameworks */,
+				787ED0FA1E890A2B0010DAA9 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TreePlantingAudio;
+			productName = TreePlantingAudio;
+			productReference = 787ED0FC1E890A2B0010DAA9 /* TreePlantingAudio.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		787ED0F41E890A2B0010DAA9 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0820;
+				LastUpgradeCheck = 0820;
+				ORGANIZATIONNAME = Ecosia;
+				TargetAttributes = {
+					787ED0FB1E890A2B0010DAA9 = {
+						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = L2SXWB2TAK;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 787ED0F71E890A2B0010DAA9 /* Build configuration list for PBXProject "TreePlantingAudio" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 787ED0F31E890A2B0010DAA9;
+			productRefGroup = 787ED0FD1E890A2B0010DAA9 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				787ED0FB1E890A2B0010DAA9 /* TreePlantingAudio */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		787ED0FA1E890A2B0010DAA9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				787ED10A1E890A2B0010DAA9 /* LaunchScreen.storyboard in Resources */,
+				787ED1071E890A2B0010DAA9 /* Assets.xcassets in Resources */,
+				787ED1051E890A2B0010DAA9 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		787ED0F81E890A2B0010DAA9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				787ED1021E890A2B0010DAA9 /* ViewController.swift in Sources */,
+				787ED1001E890A2B0010DAA9 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		787ED1031E890A2B0010DAA9 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				787ED1041E890A2B0010DAA9 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		787ED1081E890A2B0010DAA9 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				787ED1091E890A2B0010DAA9 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		787ED10C1E890A2B0010DAA9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		787ED10D1E890A2B0010DAA9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		787ED10F1E890A2B0010DAA9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = L2SXWB2TAK;
+				INFOPLIST_FILE = TreePlantingAudio/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.ecosia.TreePlantingAudio;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		787ED1101E890A2B0010DAA9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = L2SXWB2TAK;
+				INFOPLIST_FILE = TreePlantingAudio/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.ecosia.TreePlantingAudio;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		787ED0F71E890A2B0010DAA9 /* Build configuration list for PBXProject "TreePlantingAudio" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				787ED10C1E890A2B0010DAA9 /* Debug */,
+				787ED10D1E890A2B0010DAA9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		787ED10E1E890A2B0010DAA9 /* Build configuration list for PBXNativeTarget "TreePlantingAudio" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				787ED10F1E890A2B0010DAA9 /* Debug */,
+				787ED1101E890A2B0010DAA9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 787ED0F41E890A2B0010DAA9 /* Project object */;
+}
