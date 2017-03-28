@@ -114,9 +114,7 @@ extension AudioPlayer: AVAudioPlayerDelegate {
             prepareAudio()
             playAudio()
             
-            if (delegate?.responds(to: #selector(audioPlayerDidFinishPlaying)))! {
-                delegate?.audioPlayerDidFinishPlaying()
-            }
+            delegate?.audioPlayerDidFinishPlaying()
         }
     }
     

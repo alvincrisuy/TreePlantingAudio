@@ -27,6 +27,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         audioPlayer = AudioPlayer()
+        audioPlayer.delegate = self
         
         let audio0 = AudioItem(filename: "01. Title")
         let audio1 = AudioItem(filename: "02. Everlasting Wanderers")
@@ -186,7 +187,6 @@ extension ViewController: UITableViewDelegate {
 extension ViewController: AudioPlayerDelegate {
     
     func audioPlayerDidFinishPlaying() {
-        
         updateSelectedRow()
     }
     
